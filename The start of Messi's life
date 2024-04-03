@@ -1,0 +1,36 @@
+<html>
+
+<head>
+  <link rel="stylesheet" href="style.css">
+  <script defer scr="./script.js"></script>
+  <title>Messi's life</title>
+</head>
+
+<body>
+  <div class="topnav" id="myTopnav">
+    <a href="#home" class="active">Home</a>
+    <a href="#startLife">start life</a>
+    <a href="#middleLife">middle life</a>
+    <a href="#whereishenow">where is messi now</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+<button onclick="darkMode()">toggle darkMode </button>
+    </div>
+
+  <h1>The start of Messi's life</h1>
+  <p>Messi was born in Rosario, Argentina, on June 24, 1987. When Messi was younger, 
+he used to play soccer with his friends and his two older siblings, so he wasn't afraid of the older boys. 
+At eight years old, he signed up to join the Rosario youth system's Newell's Old Boys club. Messi didn't 
+take to soccer until he started playing it in the streets at the age of four with his father and brothers. 
+Messi has one sister and two brothers. Messi's siblings are Rodrigo Messi, Matias Messi, and Maria Sol Messi. 
+Jorge Horacio Messi is his father, and Celia Maria Cuccittini is his mother. At a very young age, he began playing 
+football with his older brothers and relatives, and it soon became his passion. When he was four years old, he joined the Grandoli club. 
+Before he joined Newell's Old Boys Club a few years later, he had scored close to 500 goals. Messi was motivated to play soccer by his granny.
+Lionel Messi grew up to become the best footballer in the world. He began participating in the youth activities at his 
+preferred Newell's Old Boys in 1994. He played in 176 games over his six years there, scoring 234 goals, an incredible 
+average for a child his age per game. </p>
+
+</body>
+
+</html>
