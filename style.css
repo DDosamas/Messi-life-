@@ -1,9 +1,9 @@
 body {
-  background-image: url("messi-white.jpg");
+  background-image: url("img/messi-white.jpg");
 }
 
 .dark-Mode{
-  background-image: url("messi-black.jpg");
+  background-image: url("img/messi-black.jpg");
   color: black;
 }
 .topnav {
